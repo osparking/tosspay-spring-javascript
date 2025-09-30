@@ -2,6 +2,8 @@
 
 결제위젯 JavaScript SDK로 결제 과정을 구현한 Spring 샘플 프로젝트입니다. 자세한 연동 방법과 결제 과정은 [공식 연동 문서](https://docs.tosspayments.com/guides/payment-widget/integration)에서 확인하세요.
 
+* 범 타이거의 지역 프로젝트 위치: ~/react/payment/tosspayments-sample/spring-javascript
+
 ## 실행하기
 
 1. IntelliJ로 샘플 프로젝트를 빌드하고 실행하세요.
